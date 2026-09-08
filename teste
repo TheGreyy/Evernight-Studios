@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Velune Studios</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">Velune</div>
+
+            <ul class="nav-links">
+                <li><a href="#inicio">Início</a></li>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#projetos">Projetos</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="inicio" class="hero">
+        <h1>Cada história é uma luz em um céu infinito.</h1>
+        <p>Criando experiências memoráveis através de jogos e narrativas.</p>
+        <a href="#projetos" class="btn">Conheça nossos projetos</a>
+    </section>
+
+    <section id="sobre" class="section">
+        <h2>Sobre Nós</h2>
+        <p>
+            A Velune Studios é uma desenvolvedora focada em criar mundos
+            imersivos, personagens memoráveis e histórias que permanecem
+            com os jogadores muito depois dos créditos finais.
+        </p>
+    </section>
+
+    <section id="projetos" class="section">
+        <h2>Projetos</h2>
+
+        <div class="cards">
+            <div class="card">
+                <h3>Projeto 01</h3>
+                <p>Descrição breve do projeto.</p>
+            </div>
+
+            <div class="card">
+                <h3>Projeto 02</h3>
+                <p>Descrição breve do projeto.</p>
+            </div>
+
+            <div class="card">
+                <h3>Projeto 03</h3>
+                <p>Descrição breve do projeto.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contato" class="section">
+        <h2>Contato</h2>
+        <p>Email: contato@velune.com</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Velune Studios. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
